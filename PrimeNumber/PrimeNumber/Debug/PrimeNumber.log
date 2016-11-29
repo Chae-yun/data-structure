@@ -1,0 +1,10 @@
+﻿빌드 시작: 2016-04-24 오후 4:02:55
+     1>2 노드의 "H:\USB\전공\2학년\자료구조\PrimeNumber\PrimeNumber\PrimeNumber.vcxproj" 프로젝트(Build 대상)입니다.
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\USB\전공\2학년\자료구조\PrimeNumber\Debug\PrimeNumber.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"H:\USB\전공\2학년\자료구조\PrimeNumber\Debug\PrimeNumber.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\USB\전공\2학년\자료구조\PrimeNumber\Debug\PrimeNumber.lib" /MACHINE:X86 Debug\PrimeNumber.obj
+         PrimeNumber.vcxproj -> H:\USB\전공\2학년\자료구조\PrimeNumber\Debug\PrimeNumber.exe
+     1>"H:\USB\전공\2학년\자료구조\PrimeNumber\PrimeNumber\PrimeNumber.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.43
