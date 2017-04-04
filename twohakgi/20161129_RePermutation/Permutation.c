@@ -35,7 +35,7 @@ int main(){
 	int n = sizeof(a) / sizeof(int);
 
 	Permutation(a, n, 0);
-	printf("중복 순열 개수 : %d\n", cnt); //5*4*3
+	printf("순열 개수 : %d\n", cnt); //5*4*3
 
 	return 0;
 }

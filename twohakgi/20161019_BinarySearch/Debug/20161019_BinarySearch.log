@@ -1,13 +1,11 @@
-﻿빌드 시작: 2016-10-20 오후 11:14:55
-     1>2 노드의 "G:\USB\전공\2학년\자료구조\twohakgi\20161019_BinarySearch\20161019_BinarySearch.vcxproj" 프로젝트(Build 대상)입니다.
+﻿빌드 시작: 2016-12-27 화 오전 11:31:13
+     1>2 노드의 "H:\USB\전공\2학년\자료구조\twohakgi\20161019_BinarySearch\20161019_BinarySearch.vcxproj" 프로젝트(Build 대상)입니다.
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt BinaryTreeSearch.c
          BinaryTreeSearch.c
-       Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\USB\전공\2학년\자료구조\twohakgi\Debug\20161019_BinarySearch.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\USB\전공\2학년\자료구조\twohakgi\Debug\20161019_BinarySearch.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\USB\전공\2학년\자료구조\twohakgi\Debug\20161019_BinarySearch.lib" /MACHINE:X86 Debug\BinaryTreeSearch.obj
-         20161019_BinarySearch.vcxproj -> G:\USB\전공\2학년\자료구조\twohakgi\Debug\20161019_BinarySearch.exe
-     1>"G:\USB\전공\2학년\자료구조\twohakgi\20161019_BinarySearch\20161019_BinarySearch.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(341,5): error MSB6003: 지정한 작업 실행 파일 "CL.exe"을(를) 실행할 수 없습니다. 'H:\USB\전공\2학년\자료구조\twohakgi\20161019_BinarySearch\Debug\20161019.34034F00.tlog\cl.read.1.tlog' 파일은 다른 프로세스에서 사용 중이므로 프로세스에서 액세스할 수 없습니다.
+     1>"H:\USB\전공\2학년\자료구조\twohakgi\20161019_BinarySearch\20161019_BinarySearch.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
 
-빌드했습니다.
+빌드하지 못했습니다.
 
-경과 시간: 00:00:03.56
+경과 시간: 00:00:07.37
